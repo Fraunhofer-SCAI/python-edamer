@@ -5,7 +5,7 @@
 that provides data structures and algorithms like PCA for distributed scientific computing at HPC clusters.
 Our research goal is to make the full power of generic C++ libraries usable for data analysis
 and machine learning applications in Python without sacrificing space and time efficiency.
-For example, `edamer` allows to run a distributed PCA on CFD data from [NEK5000][nek5000] in-situ from a
+For example, `edamer` allows to run a distributed PCA on CFD data from a
 [ParaView Catalyst][pv-catalyst-guide] script written in Python only.
 
 Its development started in Juli 2020 as part of the [`EDAMER`][fhg-gitlab-edamer] research project and is funded by
